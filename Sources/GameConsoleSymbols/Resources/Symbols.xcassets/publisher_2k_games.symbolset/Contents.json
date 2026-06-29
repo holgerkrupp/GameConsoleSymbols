@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "publisher_2k_games.svg",
+      "idiom" : "universal"
+    }
+  ]
+}

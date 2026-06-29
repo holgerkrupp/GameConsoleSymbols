@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "atari_5200.svg",
+      "idiom" : "universal"
+    }
+  ]
+}

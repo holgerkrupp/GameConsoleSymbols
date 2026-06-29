@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "snk_neogeo_cd.svg",
+      "idiom" : "universal"
+    }
+  ]
+}

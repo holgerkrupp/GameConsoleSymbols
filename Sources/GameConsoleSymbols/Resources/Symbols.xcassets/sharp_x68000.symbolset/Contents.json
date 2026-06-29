@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "sharp_x68000.svg",
+      "idiom" : "universal"
+    }
+  ]
+}
