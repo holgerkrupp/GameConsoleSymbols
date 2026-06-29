@@ -65,7 +65,6 @@ The retro line-up is largely complete; known gaps (no artwork yet):
 
 - **Mobile / streaming:** iOS / iPadOS, Steam Deck, Stadia, Amazon Luna, Ouya, Gizmondo
   (Windows, DOS, Mac and Android are present)
-- **Modern:** Nintendo Switch 2
 - **NEC computers:** PC-8801 (PC-88), PC-9801 (PC-98)
 - **Sega:** Sega Pico, Sega Nomad
 - **Nintendo:** Nintendo 64DD, Pokémon mini, Game Boy Micro / GBA SP (as distinct logos)

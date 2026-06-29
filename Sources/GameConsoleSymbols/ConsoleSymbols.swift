@@ -115,6 +115,7 @@ public enum GameConsoleSymbols {
         5:   SymbolEntry("nintendo_wii", "Nintendo Wii"),
         41:  SymbolEntry("nintendo_wiiu", "Nintendo Wii U"),
         130: SymbolEntry("nintendo_switch", "Nintendo Switch"),
+        508: SymbolEntry("nintendo_switch_2", "Nintendo Switch 2"),
 
         // ── Nintendo handhelds ──────────────────────────────────
         33:  SymbolEntry("nintendo_gameboy", "Game Boy"),
@@ -229,6 +230,8 @@ public enum GameConsoleSymbols {
     static let nameMap: [String: SymbolEntry] = [
         "nintendoswitch": SymbolEntry("nintendo_switch", "Nintendo Switch"),
         "switch": SymbolEntry("nintendo_switch", "Nintendo Switch"),
+        "nintendoswitch2": SymbolEntry("nintendo_switch_2", "Nintendo Switch 2"),
+        "switch2": SymbolEntry("nintendo_switch_2", "Nintendo Switch 2"),
         "wiiu": SymbolEntry("nintendo_wiiu", "Nintendo Wii U"),
         "wii": SymbolEntry("nintendo_wii", "Nintendo Wii"),
         "nintendo64": SymbolEntry("nintendo_64", "Nintendo 64"),
