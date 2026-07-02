@@ -63,8 +63,8 @@ logo). To add new artwork, drop a `*.svg` SF Symbol export into a new
 
 The retro line-up is largely complete; known gaps (no artwork yet):
 
-- **Mobile / streaming:** iOS / iPadOS, Steam Deck, Stadia, Amazon Luna, Ouya, Gizmondo
-  (Windows, DOS, Mac and Android are present)
+- **Mobile / streaming:** iPadOS, Steam Deck, Stadia, Amazon Luna, Ouya, Gizmondo
+  (Windows, DOS, Mac, Android and iOS are present)
 - **NEC computers:** PC-8801 (PC-88), PC-9801 (PC-98)
 - **Sega:** Sega Pico, Sega Nomad
 - **Nintendo:** Nintendo 64DD, Pokémon mini, Game Boy Micro / GBA SP (as distinct logos)

@@ -223,6 +223,10 @@ public enum GameConsoleSymbols {
         // ── Mobile / arcade ─────────────────────────────────────
         34:  SymbolEntry("android_2019", "Android"),
         52:  SymbolEntry("arcade", "Arcade"),
+        39:  SymbolEntry("apple_ios", "iOS"),
+
+        // ── Plug & play ──────────────────────────────────────────
+        165: SymbolEntry("plug_and_play", "Plug & Play"),
     ]
 
     // MARK: - Normalized name → symbol (fallback for non-IGDB sources)
@@ -304,5 +308,7 @@ public enum GameConsoleSymbols {
         "windows": SymbolEntry("windows", "Windows"),
         "dos": SymbolEntry("ms-dos", "MS-DOS"),
         "android": SymbolEntry("android_2019", "Android"),
+        "ios": SymbolEntry("apple_ios", "iOS"),
+        "plugandplay": SymbolEntry("plug_and_play", "Plug & Play"),
     ]
 }
